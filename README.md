@@ -1,6 +1,6 @@
 # npmtest-devbridge-styleguide
 
-#### test coverage for  [devbridge-styleguide (v0.4.17)](https://www.devbridge.com/)  [![npm package](https://img.shields.io/npm/v/npmtest-devbridge-styleguide.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-devbridge-styleguide) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-devbridge-styleguide.svg)](https://travis-ci.org/npmtest/node-npmtest-devbridge-styleguide)
+#### basic test coverage for  [devbridge-styleguide (v0.4.17)](https://www.devbridge.com/)  [![npm package](https://img.shields.io/npm/v/npmtest-devbridge-styleguide.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-devbridge-styleguide) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-devbridge-styleguide.svg)](https://travis-ci.org/npmtest/node-npmtest-devbridge-styleguide)
 
 #### Styleguide automatization tool.
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-devbridge-styleguide/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-devbridge-styleguide/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-devbridge-styleguide/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-devbridge-styleguide/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-devbridge-styleguide/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-devbridge-styleguide/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-devbridge-styleguide/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-devbridge-styleguide/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-devbridge-styleguide/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-devbridge-styleguide/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-devbridge-styleguide/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-devbridge-styleguide/build/coverage.html/index.html)
 
